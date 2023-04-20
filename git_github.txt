@@ -4,3 +4,5 @@ git --version
 git init
 git status
 git add file_name
+git commit -m "your message here"
+git log //to check commit
