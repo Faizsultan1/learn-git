@@ -52,3 +52,4 @@ git push origin -u main
 
 ---- this command is used for pushing code from local to remote (-u is added bcz by adding -u we can push our code by just typing {git push} instead of typing {git push origin main} terminal)
 
+new feature
