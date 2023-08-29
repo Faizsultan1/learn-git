@@ -40,6 +40,10 @@ git checkout branchname
 
 ----this command is used for switching b/w branches
 
+git branch -d [branch_name]
+
+----this command is used for deleting a branch
+
 git branch -M main 
 
 ----this command is used to change the name of branch to main 
