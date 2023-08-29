@@ -1,0 +1,37 @@
+git config --global user.name
+
+----this command is used to check the name of our global account
+
+git config --global user.email
+
+----this command is used to check the email of our global account
+
+git clone <Link of repo>
+
+----this command is used for clone a repository in our machiene
+
+ls
+
+----this command is used to show the files in current directory 
+
+git status
+
+----this command is used to see if there any changes we done or not
+
+untracked files are those which git isn't tracking and git don't know what we are changing in that file
+
+modified files are those which git is tracking and see what are changes in that file
+
+git add 
+
+----this command is used to add files to staged where files are ready for commits
+
+git commit -m  "some message short but descriptive"
+
+git branch
+
+----this command is used to see all branches
+
+git checkout branchname
+
+----this command is used for switching b/w branches
