@@ -30,8 +30,16 @@ git commit -m  "some message short but descriptive"
 
 git branch
 
-----this command is used to see all branches
+----this command is used to see in witch branch we are and also see all branches
 
 git checkout branchname
 
 ----this command is used for switching b/w branches
+
+git branch -M main 
+
+----this command is used to change the name of branch to main 
+
+git push origin -u main 
+
+---- this command is used for pushing code from local to remote (-u is added bcz by adding -u we can push our code by just typing git push in terminal)
